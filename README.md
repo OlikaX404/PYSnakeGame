@@ -31,3 +31,17 @@ Windows OS [For them who setuped Git and Python3]
 	- `cd PYSnakeGame`
 	- `pip3 install -r requirements.txt`
 	- `python3 pysnakegame.py`
+	
+## Follow on:
+<p align="left">
+<a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-blue"></a>
+</p>
+<p align="left">
+<a href="https://github.com/CyberBoyAyush"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p>
+<p align="left">
+<a href="https://twitter.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+</p>
+
+## Donate Me:
+[![Donate](https://img.shields.io/badge/Donate-UPI-orange)](https://upayi.me/ayushsharma.fam@idfcbank)
