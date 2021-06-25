@@ -291,11 +291,11 @@ class startmenu():
     def mainloop(self):
         while 1:
             self.screen.fill((35,38,117))
-            self.make_text(397, 50, 'PySnakeGame by CyberBoyAyush', color = (255,255,255), size = 40, a = True)
-            self.make_text(300, 100, 'Telegram Group: http://t.me/AyushBots', color = (255,255,255), size = 20, a = True)
-            self.make_text(312, 130, 'GitHub: https://github.com/CyberBoyAyush', color = (255,255,255), size = 20, a = True)
-            self.make_text(295, 160, 'Feedback & Help on my Telegram.', color = (255,255,255), size = 20, a = True)
-            self.make_text(348, 190, 'EMail: cyberboyayush@protonmail.com', color = (255,255,255), size = 20, a = True)
+            self.make_text(397, 50, 'SnakeGame by Ethio Termux User', color = (255,255,255), size = 40, a = True)
+            self.make_text(300, 100, 'Telegram Group: http://t.me/ethiotermuxuserdiscussion', color = (255,255,255), size = 20, a = True)
+            self.make_text(312, 130, 'GitHub: https://github.com/OlikaX404', color = (255,255,255), size = 20, a = True)
+            self.make_text(295, 160, 'Feedback @Olikax on my Telegram.', color = (255,255,255), size = 20, a = True)
+            self.make_text(348, 190, 'EMail: Olikaamsalu8@gmail.com', color = (255,255,255), size = 20, a = True)
             for event in pg.event.get():
                 if event.type == pg.QUIT:
                     sys.exit()
